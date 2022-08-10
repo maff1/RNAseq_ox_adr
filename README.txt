@@ -3,7 +3,7 @@
 ############################################################## MAFF V.1.0 ######
 # TITLE: bulk RNA-seq. analysis P200110
 # AUTHOR: Marco Fernandes
-# EMAIL: marco.fernandes@psych.ox.ac.uk
+# EMAIL: marco(dot)fernandes(at)psych(dot)ox(dot)ac(dot)uk
 # DATE: 24 JULY 2020
 
 # PROJECT: P200110
